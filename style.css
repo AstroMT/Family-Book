@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(45deg, #f5f7fa, #c3cfe2);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Syncopate', sans-serif;
+    font-size: 35px;
+}
+
+img {
+    height: 400px;
+    margin-top: 30px;
+}
+
+h3 {
+    font-family: 'Stylish', sans-serif;
+    font-size: 25px;
+}
+
+label {
+    font-family: 'Oregano', cursive; 
+    font-size: 20px;
+}
+
+button {
+    margin-top: 20px;
+    font-family: system-ui;
+    height: 50px;
+    width: 100px;
+    border-color: #8694a1;
+    transition-duration: 0.4s;
+    background-color: #d3d8dd;
+}
+
+button:hover {
+    background-color: #bdc4cc;
+}
